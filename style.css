@@ -262,7 +262,7 @@ body {
 .content .right .image img{
     width: 100%;
     object-fit: cover;
-    transform: translatey(3%);
+    
 }
 .cricle{
     position: absolute;
